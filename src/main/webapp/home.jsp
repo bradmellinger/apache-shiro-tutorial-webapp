@@ -13,7 +13,8 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   --%>
-<jsp:include page="include.jsp"/>
+<jsp:include page="include.jsp"/>  
+
 <!DOCTYPE html>
 <html>
 <head>
